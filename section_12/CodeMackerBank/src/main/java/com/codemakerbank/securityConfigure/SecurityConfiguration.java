@@ -30,13 +30,13 @@ public class SecurityConfiguration {
 //    }
 
 //    private ClientRegistration githubClientRegistration() {
-//        return CommonOAuth2Provider.GITHUB.getBuilder("github").clientId("Ov23liHXtC8GJfqIPlhs")
-//                .clientSecret("83f71fb614cacb6c80f4c23a513d055989b69f7a").build();
+//        return CommonOAuth2Provider.GITHUB.getBuilder("github").clientId("***********************")
+//                .clientSecret("************************").build();
 //    }
 
 //    private ClientRegistration facebookClientRegistration() {
-//        return CommonOAuth2Provider.FACEBOOK.getBuilder("facebook").clientId("974042741122392")
-//                .clientSecret("36d48c25c1767d58b3101551513d7e1e").build();
+//        return CommonOAuth2Provider.FACEBOOK.getBuilder("facebook").clientId("**********************")
+//                .clientSecret("****************************").build();
 //    }
 
 }
